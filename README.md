@@ -62,6 +62,8 @@ Después escribe 2–4 frases distinguiendo:
 -->
 
 _Resume aquí tus resultados principales._
+La SSTa está mal 
+
 
 ## Cómo reproducir el análisis
 
